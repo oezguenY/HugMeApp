@@ -7,8 +7,11 @@ This is a social app that enables you to send hugs to your loved ones.
 - Apple Sign In
 - Google Sign In
 - Push Notifications
-- Profile Deletion
+- Account and Profile Deletion
 - Realtime Capabilities
+- Paginated Posts Feed (20 posts per fetch)
+- Making/Posting pictures & exchanging text & pictures (somewhat like Snapchat)
+- Deleting Posts
 
 # Architecture
 - MVC
@@ -17,7 +20,7 @@ This is a social app that enables you to send hugs to your loved ones.
 - Firebase
 
 # Apple Frameworks Used
-- Combine
+- Combine (SignUp VC)
 - Vision (Functionality for recognizing human faces is commented out at the moment)
 - AVFoundation
 - UIKit
