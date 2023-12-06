@@ -14,7 +14,7 @@ This is a social app that enables you to send hugs to your loved ones.
 - Deleting Posts
 
 # Architecture
-- MVC (in hindsight, I should have picked MVVM since some VCs are just too large. For instance the ProfileViewVC is at 2.2k lines of code)
+- MVC (in hindsight, I should have picked MVVM since some VCs are just too large. For instance, the ProfileViewVC is at 2.2k lines of code)
 
 # Backend
 - Firebase
